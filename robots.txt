@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeyooshah.playdarwin.com/sitemap.xml
